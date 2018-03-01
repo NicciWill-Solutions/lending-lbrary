@@ -1,5 +1,5 @@
 {
-  "name": "Lending Library",
+  "name": "nw-lending-library",
   "version": "1.0.0",
   "description": "This app will facilitate the borrowing of books between members of a group.",
   "main": "index.js",

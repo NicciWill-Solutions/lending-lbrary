@@ -1,4 +1,4 @@
 # The Lending Library
 
-A web app for lending tech books to community members.
+A web app for borrowing tech books within our local community.
 
